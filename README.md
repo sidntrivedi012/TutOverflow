@@ -11,6 +11,19 @@
 * For Linux Users:  https://www.wikihow.com/Install-XAMPP-on-Linux
 * For Mac Users: https://www.webucator.com/how-to/how-install-start-test-xampp-on-mac-osx.cfm
 
+### Screenshots
+
+* The Landing Page
+![The Landing Page](/img/Screenshot from 2019-04-25 20-09-00.png)
+* The List of Popular Courses ( based on user search count )
+![Popular COurses](/img/Screenshot from 2019-04-25 20-09-09.png)
+* The Courses Page
+![Courses](/img/Screenshot from 2019-04-25 20-10-30.png)
+* The Blog Page
+![Blog](/img/Screenshot from 2019-04-25 20-22-00.png)
+* The Trend Analysis Page
+![Trend Analysis](/img/Screenshot from 2019-04-25 20-24-06.png)
+
 ### Authors
 * **Siddhant N Trivedi** - [sidntrivedi012](https://github.com/sidntrivedi012)
 * **Mayank Singh** - [code-monk08](https://github.com/code-monk08)
