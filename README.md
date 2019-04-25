@@ -14,10 +14,15 @@
 ### Screenshots
 
 <p align="center">
+  <strong>Landing page</strong>
   <img src="/img/Screenshot from 2019-04-25 20-09-00.png" width="700" title="hover text">
+  <strong>Popular Courses(based on user search count)</strong>
   <img src="/img/Screenshot from 2019-04-25 20-09-09.png" width="700" title="hover text">
+  <strong>Courses list ranked according to votes</strong>
   <img src="/img/Screenshot from 2019-04-25 20-10-30.png" width="700" title="hover text">
+  <strong>Blog portal</strong>
   <img src="/img/Screenshot from 2019-04-25 20-22-00.png" width="700" alt="accessibility text">
+  <strong>Trend analysis based on survey</strong>
   <img src="/img/Screenshot from 2019-04-25 20-24-06.png" width="700" alt="accessibility text">
 </p>
 
