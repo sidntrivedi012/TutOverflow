@@ -16,20 +16,23 @@
 <p align="center">
   
   <img src="/img/Screenshot from 2019-04-25 20-09-00.png" width="900" title="hover text"><br>
-  <strong align="center">Landing page</strong><br>
+  <p align="center">Landing page</p><br>
  
   <img src="/img/Screenshot from 2019-04-25 20-09-09.png" width="900" title="hover text"><br>
-   <strong align="center">Popular Courses(based on user search count)</strong><br>
+   <p align="center">Popular Courses(based on user search count)</p><br>
+
    
- 
   <img src="/img/Screenshot from 2019-04-25 20-10-30.png" width="900" title="hover text"><br>
-   <strong align="center">Courses list ranked according to votes</strong><br>
+     <p align="center">Searched Courses based on user rating</p><br>
+
 
   <img src="/img/Screenshot from 2019-04-25 20-22-00.png" width="900" alt="accessibility text"><br>
-    <strong align="center">Blog portal</strong><br>
+      <p align="center">Blog portal</p><br>
+
   
   <img src="/img/Screenshot from 2019-04-25 20-24-06.png" width="900" alt="accessibility text"><br>
-  <strong align="center">Trend analysis based on survey</strong><br>
+    <p align="center">Trend Analysis</p><br>
+
 </p>
 
 ### Authors
