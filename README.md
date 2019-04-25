@@ -14,6 +14,12 @@
 ### Screenshots
 
 * The Landing Page
+<p align="center">
+  <img src="/img/Screenshot from 2019-04-25 20-09-00.png" width="350" title="hover text">
+  <img src="/img/Screenshot from 2019-04-25 20-09-00.png" width="350" title="hover text">
+  <img src="/img/Screenshot from 2019-04-25 20-09-00.png" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 ![The Landing Page](/img/Screenshot from 2019-04-25 20-09-00.png)
 * The List of Popular Courses ( based on user search count )
 ![Popular COurses](/img/Screenshot from 2019-04-25 20-09-09.png)
