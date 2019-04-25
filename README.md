@@ -14,11 +14,11 @@
 ### Screenshots
 
 <p align="center">
-  <img src="/img/Screenshot from 2019-04-25 20-09-00.png" width="500" title="hover text">
-  <img src="/img/Screenshot from 2019-04-25 20-09-09.png" width="500" title="hover text">
-  <img src="/img/Screenshot from 2019-04-25 20-10-30.png" width="500" title="hover text">
-  <img src="/img/Screenshot from 2019-04-25 20-22-00.png" width="500" alt="accessibility text">
-  <img src="/img/Screenshot from 2019-04-25 20-24-06.png" width="500" alt="accessibility text">
+  <img src="/img/Screenshot from 2019-04-25 20-09-00.png" width="700" title="hover text">
+  <img src="/img/Screenshot from 2019-04-25 20-09-09.png" width="700" title="hover text">
+  <img src="/img/Screenshot from 2019-04-25 20-10-30.png" width="700" title="hover text">
+  <img src="/img/Screenshot from 2019-04-25 20-22-00.png" width="700" alt="accessibility text">
+  <img src="/img/Screenshot from 2019-04-25 20-24-06.png" width="700" alt="accessibility text">
 </p>
 
 ### Authors
