@@ -15,15 +15,15 @@
 
 <p align="center">
   <strong>Landing page</strong><br>
-  <img src="/img/Screenshot from 2019-04-25 20-09-00.png" width="700" title="hover text"><br>
+  <img src="/img/Screenshot from 2019-04-25 20-09-00.png" width="900" title="hover text"><br>
   <strong>Popular Courses(based on user search count)</strong><br>
-  <img src="/img/Screenshot from 2019-04-25 20-09-09.png" width="700" title="hover text"><br>
+  <img src="/img/Screenshot from 2019-04-25 20-09-09.png" width="900" title="hover text"><br>
   <strong>Courses list ranked according to votes</strong><br>
-  <img src="/img/Screenshot from 2019-04-25 20-10-30.png" width="700" title="hover text"><br>
+  <img src="/img/Screenshot from 2019-04-25 20-10-30.png" width="900" title="hover text"><br>
   <strong>Blog portal</strong><br>
-  <img src="/img/Screenshot from 2019-04-25 20-22-00.png" width="700" alt="accessibility text"><br>
+  <img src="/img/Screenshot from 2019-04-25 20-22-00.png" width="900" alt="accessibility text"><br>
   <strong>Trend analysis based on survey</strong><br>
-  <img src="/img/Screenshot from 2019-04-25 20-24-06.png" width="700" alt="accessibility text"><br>
+  <img src="/img/Screenshot from 2019-04-25 20-24-06.png" width="900" alt="accessibility text"><br>
 </p>
 
 ### Authors
